@@ -7,7 +7,7 @@
 3. <code>pip install requests aiohttp threading colorama</code>
 4. <code>git clone https://github.com/kitasS/aiohttp-doser</code>
 5. <code>cd aiohttp-doser</code>
-6. <code>python ddos.py</code>
+6. <code>python dos.py</code>
 
 # Донатерная
 http://donationalerts.com/r/nktas
